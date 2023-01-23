@@ -12,16 +12,16 @@
     },
     "tokens": [
         {
-            "address": "0x59ff400Ab1a2A93e39078dd3a480f7B680f7C2A8",
-            "chainId": 1,
+            "address": "0xF7da896c93Cb6347ec14A26cd10B110b5B771704",
+            "chainId": 9000,
             "name": "Wrapped Ether",
             "symbol": "WETH",
             "decimals": 18,
             "logoURI": ""
         },
         {
-            "address": "0x3F423b46272f98E6Ea86918F5bF47207172d72Cf",
-            "chainId": 1,
+            "address": "0xF7da896c93Cb6347ec14A26cd10B110b5B771704",
+            "chainId": 9000,
             "name": "Wrapped CC",
             "symbol": "wCC",
             "decimals": 18,
