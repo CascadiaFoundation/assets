@@ -1,0 +1,31 @@
+{
+    "name": "Farms",
+    "logoURI": "",
+    "keywords": [
+        "farms",
+        "listed"
+    ],
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "tokens": [
+        {
+            "address": "0x59ff400Ab1a2A93e39078dd3a480f7B680f7C2A8",
+            "chainId": 1,
+            "name": "Wrapped Ether",
+            "symbol": "WETH",
+            "decimals": 18,
+            "logoURI": ""
+        },
+        {
+            "address": "0x3F423b46272f98E6Ea86918F5bF47207172d72Cf",
+            "chainId": 1,
+            "name": "Wrapped CC",
+            "symbol": "wCC",
+            "decimals": 18,
+            "logoURI": ""
+        }
+    ]
+}
